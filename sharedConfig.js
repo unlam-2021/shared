@@ -6,7 +6,7 @@ const sharedConfig = {
     mailer: 7002,
     orchestrator: 7003,
     trackService: 7004,
-    trackService: 7005,
+    profile: 7005,
   }
 };
 
